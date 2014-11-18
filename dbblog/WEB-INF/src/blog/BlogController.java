@@ -132,7 +132,7 @@ public class BlogController {
 		for(int i = 0; i < topics.size(); i++){
 			System.out.println(topics.get(i));
 		}
-		System.out.println("end");
+		System.out.println("The end.");
 	}
 
 }
