@@ -2,6 +2,6 @@
 
 <html>
 <body>
-<a href="read">Blog‚ð“Ç‚Þ</a>
+<a href="read">Read Blogs</a>
 </body>
 </html>
